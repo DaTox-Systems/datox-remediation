@@ -49,14 +49,6 @@ Every codebase undergoes rigorous evaluation across four objective engineering a
 
 ---
 
-## 🛠️ Standards & Documentation
-
-Our operational methodology is fully open and documented:
-* [`/docs/standards/DTX_AUDIT_STANDARD.md`](./docs/standards/DTX_AUDIT_STANDARD.md) — 60-minute express architectural audit protocol.
-* [`/docs/standards/DTX_REFACTORING_STD.md`](./docs/standards/DTX_REFACTORING_STD.md) — 7-step Quality Gate & verification pipeline.
-* [`/docs/standards/DTX_CASE_STUDY_STD.md`](./docs/standards/DTX_CASE_STUDY_STD.md) — Evidence-based case packaging standard.
-
----
 
 ## ⚖️ Attribution & Ethics
 

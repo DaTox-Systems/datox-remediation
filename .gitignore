@@ -1,8 +1,7 @@
 ﻿work/
 sandbox/
 input/
-docs/core/
-docs/ops/
-docs/product/
+scripts/
+docs/
 .idea/
 .vscode/
