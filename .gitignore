@@ -1,7 +1,8 @@
 ﻿work/
 sandbox/
 input/
-scripts/
-docs/
+.dart_tool/
+build/
 .idea/
 .vscode/
+*.tmp
