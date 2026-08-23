@@ -1,7 +1,19 @@
-# 🛡️ DaTox Remediation: AI-Debt & Architectural Governance Bureau
+# 🛡️ DaTox Remediation: Architecture & Codebase Governance
 
-> **We restore predictability, modularity, and testability to AI-assisted and legacy codebases.**  
-> *Transforming fragile Cursor/Claude prototypes into robust, production-grade Clean Architecture systems.*
+> **Turning fragile AI-generated and legacy codebases into predictable, maintainable systems.**  
+> *Not just refactoring — restoring developability. From "afraid to touch" to "safe to continue with AI".*
+
+We help founders, indie hackers, and engineering teams who hit the wall with rapidly-grown or AI-assisted Flutter codebases:
+* New features start breaking existing screens.
+* Impossible to write reliable tests due to hardcoded singletons.
+* Fear of touching the code due to hidden coupling and context leaks.
+* AI tools start making things worse instead of better.
+
+**What We Deliver:**
+* **Deep Architectural Triage:** Objective 4-axis diagnostic heatmap and risk reduction plan.
+* **Clean Cortex Remediation:** Modular layer isolation with 100% Dependency Injection.
+* **Safe AI Maintainability:** Verified architecture enabling safe ongoing development with AI agents.
+* **Measurable Risk Elimination:** Zero-regression guarantee with complete unit test suites.
 
 [![Architecture](https://img.shields.io/badge/Methodology-Clean%20Cortex-00E676)]()
 [![Linter](https://img.shields.io/badge/Quality%20Gate-0%20Issues-brightgreen)]()

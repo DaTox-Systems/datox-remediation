@@ -44,7 +44,8 @@ projects/datox_remediation/docs/
 ├── standards/                         # 🟡 РЕГЛАМЕНТЫ И СТАНДАРТЫ РАБОТЫ
 │   ├── DTX_AUDIT_STANDARD.md          # Методология экспресс-аудита
 │   ├── DTX_REFACTORING_STD.md         # Регламент рефакторинга и Quality Gate
-│   └── DTX_CASE_STUDY_STD.md          # Стандарт упаковки портфолио-кейсов
+│   ├── DTX_CASE_STUDY_STD.md          # Стандарт упаковки портфолио-кейсов
+│   └── DTX_CLIENT_DELIVERY_STD.md     # Регламент ведения коммерческих заказов
 │
 ├── product/                           # 🟣 ВИТРИНА И РЕГИСТРЫ
 │   └── CASE_REGISTRY.md               # Сводный реестр кейсов и ссылки на капсулы
